@@ -1,0 +1,3 @@
+@echo off
+echo "this is jenkins test: %name%"
+pause
