@@ -13,7 +13,7 @@ pipeline {
       }
     }
 
-    stage('') {
+    stage('archive') {
       steps {
         echo 'echo \'archive\''
       }
